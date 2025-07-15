@@ -8,3 +8,4 @@ Faker==37.4.0
 setuptools==80.9.0
 sqlparse==0.5.3
 tzdata==2025.2
+
